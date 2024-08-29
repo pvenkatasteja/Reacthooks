@@ -1,0 +1,10 @@
+.star {
+    color: #FFD700; /* Gold color */
+    font-size: 24px; /* Adjust the size as needed */
+    cursor: pointer;
+  }
+  
+  .star.active {
+    color: #FFD700; /* Gold color for active stars */
+  }
+  
